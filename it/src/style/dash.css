@@ -1,0 +1,8 @@
+.dash .image{
+  width: 50px;
+}
+.btns{
+  display: flex;
+  gap: 20px;
+  /* flex-wrap: wrap; */
+}

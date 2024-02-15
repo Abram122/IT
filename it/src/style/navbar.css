@@ -1,0 +1,6 @@
+.navbar a:hover .nav-link{
+    color: green;
+}
+.nav-link{
+    font-size: 18px;
+}

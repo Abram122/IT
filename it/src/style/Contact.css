@@ -1,0 +1,34 @@
+.main{
+    background-color: rgb(245, 241, 241);
+}
+.contact-info {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    background-color: white;
+    margin-bottom: 90px;
+    text-align: center;
+    margin: auto;
+    padding: 60px 0px;
+    height: fit-content;
+    /* margin-top: 150px; */
+}
+
+.contact-info .card {
+    margin: auto;
+    border-style: ridge;
+    width: 350px;
+    text-align: center;
+    height: 150px;
+    justify-items: center;
+}
+.header{
+    height: 30vh;
+}
+
+
+@media (max-width:1350px){
+    .d{
+        display: none;
+    }
+}

@@ -1,0 +1,9 @@
+.text{
+  text-decoration: none;
+  color:rgb(97, 176, 97); ;
+}
+.green-line {
+  width: 100%;
+  height: 2px;
+  background-color: rgb(97, 176, 97);
+}

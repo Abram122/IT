@@ -1,0 +1,19 @@
+body{
+    background-color:rgba(236, 236, 236, 0.658);
+}
+.product-img{
+    width: 300px;
+    height: 250px;
+}
+.products{
+    text-align: center;
+    margin-right: 10px;
+}
+.gray{
+    color: gray;
+}
+.cardss{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
